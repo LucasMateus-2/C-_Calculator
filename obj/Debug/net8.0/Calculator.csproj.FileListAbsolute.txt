@@ -1,0 +1,14 @@
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/lrossi/prog/aulas/c#/Calculator/bin/Debug/net8.0/Calculator
+/home/lrossi/prog/aulas/c#/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/lrossi/prog/aulas/c#/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/lrossi/prog/aulas/c#/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/lrossi/prog/aulas/c#/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/ref/Calculator.dll
