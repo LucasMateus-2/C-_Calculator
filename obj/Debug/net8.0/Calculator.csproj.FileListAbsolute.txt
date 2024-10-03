@@ -12,3 +12,4 @@
 /home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.pdb
 /home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
 /home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/ref/Calculator.dll
+/home/lrossi/prog/aulas/c#/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json

@@ -16,10 +16,11 @@ namespace Calculator
           Console.Clear();
           Console.WriteLine("Olá, o que deseja fazer ? ");
           Console.WriteLine("---------------------------");
-          Console.WriteLine("[1] Somar ");
-          Console.WriteLine("[2] Subtrair");
-          Console.WriteLine("[3] Multiplicar");
-          Console.WriteLine("[4] Dividir");
+          Console.WriteLine("[1] Somar -> +");
+          Console.WriteLine("[2] Subtrair -> -");
+          Console.WriteLine("[3] Multiplicar -> x");
+          Console.WriteLine("[4] Dividir -> / ");
+          Console.WriteLine("[5] Sair");
           Console.WriteLine("---------------------------");
 
           Console.WriteLine("Selecione uma opção: ");
@@ -38,7 +39,10 @@ namespace Calculator
               case 4:
                 Divisao();
                 break;
-
+              case 5:
+                Console.WriteLine("Saindo do programa, obrigado por utilizar!!");
+                System.Environment.Exit(0);
+                break;
               default:
                 Console.WriteLine("Digite a operção correta: ");
                 Menu();
